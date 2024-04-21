@@ -1,2 +1,2 @@
 # js-practice
-js-practice
+# js/ts related projects
